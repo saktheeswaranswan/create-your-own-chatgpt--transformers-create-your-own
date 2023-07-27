@@ -23,3 +23,4 @@ https://huggingface.co/ybelkada/falcon-7b-sharded-bf16
 
 
 https://github.com/Atomic-man007/falcon-7b-lora-fine-tuning.git
+https://lightning.ai/blog/falcon-a-guide-to-finetune-and-inference/
